@@ -12,3 +12,5 @@ The company wishes to identify the:
 - Market share in the different parts of the country
 - Growth opportunities
 
+<img src="Phone_brand_dist_across_states.png" alt="Phone Brands Distribution across States" width="500" height="600">
+
